@@ -145,7 +145,7 @@ ul { list-style: none; }
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url('/image/background.png') center/cover no-repeat;
+  background: url('image/background.png') center/cover no-repeat;
 }
 .hero-overlay {
   position: absolute; inset: 0;
